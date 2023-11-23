@@ -1,0 +1,13 @@
+/* Write your code here. */
+.bg-container {
+  height: 100hv;
+  padding: 25px;
+}
+.thumbnail-img {
+  height: 400px;
+  width: 70%;
+}
+ul {
+  display: flex;
+  justify-content: flex-start;
+}
